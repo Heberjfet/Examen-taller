@@ -1,4 +1,5 @@
 import Formulario from './componets/formulario.jsx'
+// import '@fortawesome/fontawesome-free/css/all.min.css';
 
 function App() {
   const handleFormSubmit = (e, formData) => {
